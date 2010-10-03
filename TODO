@@ -2,3 +2,5 @@ when pushing to github, make buzzfile generic WARNING buzzfile is in git history
 	instead, make a pristine repo with generic buzzfile and push that, keep separate
 add labels so don't have to click checkbox
 oliver: why can't I (already) auto-submit my word suggestions!?!?!
+add disclosure trinagle or something to toggle full list
+make cells nowrap
