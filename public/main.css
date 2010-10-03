@@ -1,0 +1,59 @@
+
+root { 
+    display: block;
+}
+
+* {
+    border: 0px solid #cfcfcf;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+	/* font-family: Arial, "MS Trebuchet", sans-serif; */
+	font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 90%;
+	color: #333;
+	background: #fff;
+	margin: 0px 0px;
+	padding: 0px;
+	background-color: #fff;
+}
+
+#wrapper {
+	width: 700px;
+	margin: 0px auto;
+	text-align: left;
+	padding: 15px;
+}
+
+table {
+	width: 700px;
+	border: 1px solid #afafaf;
+	border-spacing: 2px;
+}
+
+td {
+    border: 1px solid #afafaf;
+    padding: 1em;
+    /* height: 140px; */
+}
+
+#slickbox {
+    text-align: left;
+    /* font-size: 0.8em; */
+    font-size: 0.8em;
+    border: 1px solid #afafaf;
+    background-color: #fff;
+    padding: 12px;
+    margin: 6px 0px 10px 0px;
+}
+
+p {
+	padding-top: 1em;
+}
+
+h1 {
+	font-size: 2em;
+	padding: 0px 0px 10px 0px;
+}
