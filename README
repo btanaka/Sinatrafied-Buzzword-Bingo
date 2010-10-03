@@ -1,5 +1,8 @@
+Buzzword Bingo, Sinatra-style.
+
 To install Sinatra: see http://www.sinatrarb.com/
 
-To run: $ ruby ./runapp.rb
+To run the bingo server: $ ruby ./runapp.rb
 
+To contact Brian: http://briantanaka.com/
 
