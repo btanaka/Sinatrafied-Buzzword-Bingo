@@ -1,3 +1,3 @@
-require 'bwb'
+require_relative 'bwb'
 
 Bwb.run!
